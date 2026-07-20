@@ -53,11 +53,11 @@ Real systems and production-level apps I have actually built and contributed to:
 
 | Project / System | Role & What I Built |
 |:---|:---|
-| **NMU Legal Affairs System** | Engaged as system developer building an institutional legal management platform with case tracking, role-based access control (RBAC), and automated reporting using React & Node.js. |
+| **NMU Legal Affairs System** | Engaged as system developer building an institutional legal management platform with case tracking, role-based access control (RBAC), and automated reporting using React & Node.js. *(Private Institutional Repo)* |
 | [Atlas Travel App](https://github.com/MadY119/atlas-travel-app) | Built a complete mobile travel booking ecosystem with search/filter, live booking management, Google Maps API, and an admin dashboard using Flutter & Firebase. |
 | [E-Commerce Full Platform](https://github.com/MadY119/ecommerce-full-system) | Crafted an end-to-end web store with product inventory, dynamic shopping cart, order tracking, and Stripe payment integration using React, Redux, & Node.js. |
-| [Creativa Full-Stack Track](https://github.com/MadY119) | Successfully delivered multiple integrated web applications focusing on clean code, RESTful API consumption, and agile development workflows. |
-| [DEPI .NET Enterprise Repo](https://github.com/MadY119) | Implementing Clean Architecture, Entity Framework Core, and secure authentication for scalable enterprise backend solutions. |
+| [Flight Booking System](https://github.com/MadY119) | Engineered a comprehensive backend system for managing flights, user bookings, passengers, ticketing, payment workflows, and cancellations. |
+| [Student Dashboard App](https://github.com/MadY119) | Developed a structured application focused on student authentication workflows, academic dashboards, and responsive UI architecture. |
 
 <p>
 More on my <a href="https://github.com/MadY119?tab=overview" target="_blank">activity tab</a> if you want to see the daily grind.
@@ -74,5 +74,5 @@ More on my <a href="https://github.com/MadY119?tab=overview" target="_blank">act
 <hr/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MadY119/MadY119/output/snake.svg" alt="snake eating my commits" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadY119&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0a7eca&line=035397&point=ffffff" width="100%" alt="Yousef's GitHub Activity Graph" />
 </div>
