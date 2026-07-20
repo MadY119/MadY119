@@ -13,7 +13,7 @@ Focused path: Front-End & Flutter → Full-Stack Architecture (.NET & Node.js) �
 </p>
 
 <p>
-🔥 Check out my <a href="https://yousef-mady.vercel.app/" target="_blank">Portfolio Website</a> | <a href="https://yousef-mady.vercel.app/cv" target="_blank">View / Download CV</a>
+🔥 Check out my <a href="https://yousef-mady.vercel.app/" target="_blank">Portfolio Website</a> | <a href="./cv_mady11.pdf" target="_blank">View / Download CV</a>
 <br/>
 🤝 Open to collaboration on real-world web applications and cross-platform Flutter apps  
 <br/>
@@ -53,7 +53,7 @@ Real systems and production-level apps I have actually built and contributed to:
 
 | Project / System | Role & What I Built |
 |:---|:---|
-| [NMU Legal Affairs System](https://yousef-mady.vercel.app/) | Engaged as system developer building an institutional legal management platform with case tracking, role-based access control (RBAC), and automated reporting using React & Node.js. |
+| **NMU Legal Affairs System** | Engaged as system developer building an institutional legal management platform with case tracking, role-based access control (RBAC), and automated reporting using React & Node.js. |
 | [Atlas Travel App](https://github.com/MadY119/atlas-travel-app) | Built a complete mobile travel booking ecosystem with search/filter, live booking management, Google Maps API, and an admin dashboard using Flutter & Firebase. |
 | [E-Commerce Full Platform](https://github.com/MadY119/ecommerce-full-system) | Crafted an end-to-end web store with product inventory, dynamic shopping cart, order tracking, and Stripe payment integration using React, Redux, & Node.js. |
 | [Creativa Full-Stack Track](https://github.com/MadY119) | Successfully delivered multiple integrated web applications focusing on clean code, RESTful API consumption, and agile development workflows. |
