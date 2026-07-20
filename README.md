@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:041124,50:064377,100:0a7eca&height=220&section=header&text=Yousef%20Mohamed%20Mady&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Front-End%20Developer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Software%20Engineering%20Student&descSize=16&descColor=ffffff&descAlign=50&descAlignY=60" width="100%" alt="Yousef Mohamed Mady Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=035397&height=220&section=header&text=Yousef%20Mohamed%20Mady&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Front-End%20Developer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Software%20Engineering%20Student&descSize=16&descColor=ffffff&descAlign=50&descAlignY=60" width="100%" alt="Yousef Mohamed Mady Banner" />
 </div>
 
-<h2>👋 I'm Yousef Mady → MADY</h2>
+<h2>👋 I'm Yousef Mady → MadY119</h2>
 
 <p>
 Front-End Dev, Flutter Specialist & Software Engineering Student at NMU.  
