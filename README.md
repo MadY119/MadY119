@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=035397&height=220&section=header&text=Yousef%20Mohamed%20Mady&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Front-End%20Developer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Software%20Engineering%20Student&descSize=16&descColor=ffffff&descAlign=50&descAlignY=60" width="100%" alt="Yousef Mohamed Mady Banner" />
 </div>
 
-<h2>👋 I'm Yousef Mady → MadY119</h2>
+<h2>👋 I'm Yousef Mady → MADY</h2>
 
 <p>
 Front-End Dev, Flutter Specialist & Software Engineering Student at NMU.  
@@ -53,11 +53,11 @@ Real systems and production-level apps I have actually built and contributed to:
 
 | Project / System | Role & What I Built |
 |:---|:---|
-| **NMU Legal Affairs System** | Engaged as system developer building an institutional legal management platform with case tracking, role-based access control (RBAC), and automated reporting using React & Node.js. *(Private Institutional Repo)* |
-| [Atlas Travel App](https://github.com/MadY119/atlas-travel-app) | Built a complete mobile travel booking ecosystem with search/filter, live booking management, Google Maps API, and an admin dashboard using Flutter & Firebase. |
-| [E-Commerce Full Platform](https://github.com/MadY119/ecommerce-full-system) | Crafted an end-to-end web store with product inventory, dynamic shopping cart, order tracking, and Stripe payment integration using React, Redux, & Node.js. |
-| [Flight Booking System](https://github.com/MadY119) | Engineered a comprehensive backend system for managing flights, user bookings, passengers, ticketing, payment workflows, and cancellations. |
-| [Student Dashboard App](https://github.com/MadY119) | Developed a structured application focused on student authentication workflows, academic dashboards, and responsive UI architecture. |
+| [NMU Legal Affairs System](https://github.com/MadY119/nmu-legal-affairs-frontendd) | Engaged as system developer building an institutional legal management platform with case tracking, role-based access control (RBAC), and automated reporting using React & Node.js. |
+| [Atlas Travel App (New)](https://github.com/MadY119/Atlaas_new) | Engineered a complete mobile travel booking ecosystem from scratch with search/filter, live booking management, Google Maps API, and an admin dashboard using Flutter & Firebase. |
+| [Smart QR Card Wallet](https://github.com/MadY119/smart-qr-card-wallet) | Built an offline-first digital business card wallet and real-time QR code scanner using Flutter, featuring an executive UI style and 3D interactive animations. |
+| [Fatora (Invoicing App)](https://github.com/MadY119/fatora) | Developed a streamlined billing and invoicing mobile application crafted with Flutter and Dart, focusing on clean architecture and efficient state management. |
+| [Nike E-Commerce Concept](https://github.com/MadY119/nike-product-page-concept) | Designed a highly responsive, modern sneaker product page concept implementing clean layout, modern UI interactions, and responsive design with HTML, CSS, and JS. |
 
 <p>
 More on my <a href="https://github.com/MadY119?tab=overview" target="_blank">activity tab</a> if you want to see the daily grind.
