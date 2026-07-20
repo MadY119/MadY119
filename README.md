@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:004466,100:0080a0&height=220&section=header&text=Yousef%20Mohamed%20Mady&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Front-End%20Developer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Software%20Engineering%20Student&descSize=16&descColor=ffffff&descAlign=50&descAlignY=60" width="100%" alt="Yousef Mohamed Mady Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:041124,50:064377,100:0a7eca&height=220&section=header&text=Yousef%20Mohamed%20Mady&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Front-End%20Developer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Software%20Engineering%20Student&descSize=16&descColor=ffffff&descAlign=50&descAlignY=60" width="100%" alt="Yousef Mohamed Mady Banner" />
 </div>
 
-<h2>👋 I'm Yousef Mady → MadY119</h2>
+<h2>👋 I'm Yousef Mady → MADY</h2>
 
 <p>
 Front-End Dev, Flutter Specialist & Software Engineering Student at NMU.  
@@ -13,7 +13,7 @@ Focused path: Front-End & Flutter → Full-Stack Architecture (.NET & Node.js) �
 </p>
 
 <p>
-🔥 Check out my <a href="https://yousef-mady.vercel.app/" target="_blank">Portfolio & CV</a>
+🔥 Check out my <a href="https://yousef-mady.vercel.app/" target="_blank">Portfolio Website</a> | <a href="https://yousef-mady.vercel.app/cv" target="_blank">View / Download CV</a>
 <br/>
 🤝 Open to collaboration on real-world web applications and cross-platform Flutter apps  
 <br/>
